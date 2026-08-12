@@ -28,8 +28,8 @@ The original simulator was available through Willby's Simulators.
 
 ## 🛠️ How to Play
 
-1. Download or clone this repository.
-2. Open `index.html`.
+1. Download, clone, or directly click the Github Pages link, of this repository.
+2. Click the link.
 3. Enjoy the simulator.
 
 Depending on your browser, some local browser security restrictions may affect how the simulator runs.
